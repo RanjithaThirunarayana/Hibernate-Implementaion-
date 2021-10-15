@@ -1,4 +1,4 @@
-package homework1;
+package hibernate1;
 
 import java.io.IOException;
 import java.util.ArrayList;

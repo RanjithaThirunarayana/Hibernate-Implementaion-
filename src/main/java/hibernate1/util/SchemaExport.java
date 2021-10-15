@@ -1,4 +1,4 @@
-package homework1.util;
+package hibernate1.util;
 
 import java.io.StringWriter;
 import java.util.HashMap;

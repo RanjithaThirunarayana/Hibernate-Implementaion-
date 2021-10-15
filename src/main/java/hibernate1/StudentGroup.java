@@ -1,4 +1,4 @@
-package homework1;
+package hibernate1;
 
 import java.io.Serializable;
 import java.util.List;
